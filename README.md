@@ -123,3 +123,6 @@ We welcome contributions to LearnLynx! If you have any improvements or new featu
 3. Commit your changes (`git commit -m 'Add YourFeature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
+
+
+![web app design](https://github.com/user-attachments/assets/c88a2619-5a84-42a1-8089-151ed59fcc66)
